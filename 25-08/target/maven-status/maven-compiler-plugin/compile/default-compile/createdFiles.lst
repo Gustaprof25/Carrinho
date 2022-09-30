@@ -1,0 +1,5 @@
+webII\aula8\segundo_controller\controller\ProdutosController.class
+webII\aula8\segundo_controller\model\repository\ProdutoRepository.class
+webII\aula8\segundo_controller\Application.class
+webII\aula8\segundo_controller\controller\ProdutosController$ConfiguracaoSpringMvc.class
+webII\aula8\segundo_controller\model\entity\Produto.class

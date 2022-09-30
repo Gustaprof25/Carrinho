@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: webII.aula8.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.132 s <<< FAILURE! - in webII.aula8.ApplicationTests
+webII.aula8.ApplicationTests  Time elapsed: 0.131 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
